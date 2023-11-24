@@ -1,10 +1,6 @@
 # KUTUPHANELER
 ## ERCİYES TEKNOPARK SQL BOOTCAMP
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Erciyes Teknopark'ın ev sahipliğinde Techcareer ile birlikte düzenlenen SQL BOOTCAMP programında bitirme ödevi olarak hazırlanan veri tabanıdır.
 Proje aşağıda ki isterler göz önüne alınarak hazırlanmıştır.
 
