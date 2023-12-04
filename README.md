@@ -48,9 +48,9 @@ Script.sql
 ```
 (Eğer SSMS programını doğru kurulduysa "sql" uzantılı dosyalar bu program ile açılacaktır.)
 
-SSMS programı ilk açıldığında servere bağlantı isteyecektir. Program kurulurken bir hata ile karşılaşılmadıysa ```Connect ``` butonuna tıklayarak giriş yapabiliriz.
+SSMS programı ilk açıldığında servere bağlantı isteyecektir. Program kurulurken bir hata ile karşılaşılmadıysa ```Connect``` butonuna tıklayarak giriş yapabiliriz.
 
-Giriş işlemimiz tamamladıktan sonra klavyemizde ```F5``` tuşuna basarak projemizi ```execute``` etmiş oluruz. Bu aşamadan sonra kurulum işlemimiz tamamlanmış olur. ```Object Explorer```pencresinden veri tabanımızı ve ona ait objelerimizi görüntüleyebiliriz.
+Giriş işlemimiz tamamladıktan sonra klavyemizde ```F5``` tuşuna basarak projemizi ```execute``` etmiş oluruz. Bu aşamadan sonra kurulum işlemimiz tamamlanmış olur. ```Object Explorer``` pencresinden veri tabanımızı ve ona ait objelerimizi görüntüleyebiliriz.
 
 
    [SSMS]: <https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16>
