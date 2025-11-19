@@ -27,7 +27,8 @@ Proje aşağıda ki isterler göz önüne alınarak hazırlanmıştır.
 ## ER DİYAGRAMI
 İsterler sonrasında ortaya çıkan ER Diyagramı:
 
-![Er Diyagramı]<img width="1306" height="713" alt="GITHUBEFCOREWITHAIDIAGRAM drawio" src="https://github.com/user-attachments/assets/c5b0a5d4-c9af-4375-a17d-bd82010bc1b5" />
+Er Diyagramı
+<img width="1306" height="713" alt="GITHUBEFCOREWITHAIDIAGRAM drawio" src="https://github.com/user-attachments/assets/c5b0a5d4-c9af-4375-a17d-bd82010bc1b5" />
 
 ## TEKNOLOJİLER
 
