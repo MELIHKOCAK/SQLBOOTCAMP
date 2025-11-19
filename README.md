@@ -25,15 +25,16 @@ Proje aşağıda ki isterler göz önüne alınarak hazırlanmıştır.
 	Yönetici kullanıcısı bütün serveri kontrol edebileek.
 
 ## ER DİYAGRAMI
-İsterler sonrsında ortaya çıkan ER Diyagramı:
+İsterler sonrasında ortaya çıkan ER Diyagramı:
 
-![Er Diyagramı](https://raw.githubusercontent.com/MELIHKOCAK/SQLBOOTCAMP/main/ER%20D%C4%B0YAGRAM.png)
+![Er Diyagramı]<img width="1306" height="713" alt="GITHUBEFCOREWITHAIDIAGRAM drawio" src="https://github.com/user-attachments/assets/c5b0a5d4-c9af-4375-a17d-bd82010bc1b5" />
+
 ## TEKNOLOJİLER
 
 Projemi geliştirirken kullandığım teknolojiler.
 
 - [SSMS] - Sql Server Managment Studio 2019
-- [SQLENGİNE] - SQL Server(Database Engine)
+- [SQLSERVER] - SQL Server(Database Engine)
 
 ## YÜKLEME
 
